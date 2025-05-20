@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hey all 👋
+# I am Rishat Mukhtarov, an IT-specialist with almost two decades of experience, mostly as a desktop support, a sysadmin and a network engineer.
+# Last two companies I worked for are ACI Worldwide Inc. and Travelline Systems LLC.
+# It is time to stop here, and start a new page in my life - all door are open for becoming a DevOps Engineer.
+# Currently I am learning DevOps things one by one, and some of the most interesting parts share here in GitHub.
+
+![image](https://github.com/user-attachments/assets/9327913d-b8e5-440c-82ac-f05e2966df55)
+
+![image](https://github.com/user-attachments/assets/0d33e102-182c-4753-a9f7-2c2c3691f435)
 
 <!--
 **ritchie229/ritchie229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

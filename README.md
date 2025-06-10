@@ -8,6 +8,10 @@
 
 ![image](https://github.com/user-attachments/assets/0d33e102-182c-4753-a9f7-2c2c3691f435)
 
+![image](https://github.com/user-attachments/assets/e9b03803-72d3-409c-bc5a-c5ea8af45e63)
+
+
+
 <!--
 **ritchie229/ritchie229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

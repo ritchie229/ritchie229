@@ -1,5 +1,4 @@
-##VIEW THIS IN CODE MODE
-##git-scm.com
+git-scm.com
 --,-'<@
 ```bash
 git config --global init.defaultBranch main

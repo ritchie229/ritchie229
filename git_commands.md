@@ -1,5 +1,5 @@
-###VIEW THIS IN CODE MODE
-####git-scm.com
+##VIEW THIS IN CODE MODE
+##git-scm.com
 --,-'<@
 ```bash
 git config --global init.defaultBranch main
@@ -21,8 +21,8 @@ git branch -D <branch_name>
   - remove branch before committing or pushing (hard)
 git branch -m <name> - renaming the current branches name
 ```
-###Relative actions order via a sub branch:
 ```bash
+# Relative actions order via a sub branch:
 1. git checkout subbranch
 2. making changes, editing files, adding/removing etc.
 3. git status
@@ -76,8 +76,6 @@ git rebase slave HEAD~1
 git co 72d4c62
 git cat-file -p 1f940ed
 ```
-
-
 ```bash
 git log (git log -2 -p)
   - to chow all commits
